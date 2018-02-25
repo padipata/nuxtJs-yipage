@@ -1,0 +1,63 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+body {
+  color: #333333;
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 2px;
+  font-family: PingFangSC-Regular, arial;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-overflow-scrolling: touch;
+  /*超出标签宽度自动换行*/
+  word-wrap: break-word;
+  word-break: break-all;
+  /*为元素设定的宽度和高度决定了元素的边框盒*/
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  font-family: "Axiforma", "Helvetica Neue", Arial, sans-serif;
+}
+
+/*取消H5浏览器聚焦样式*/
+img, button, textarea, input, a {
+  color: #333333;
+  vertical-align: middle;
+  border: none;
+  outline: medium !important;
+  text-decoration: none;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+

@@ -1,0 +1,134 @@
+/*------------------------------------*\
+		Footer
+\*------------------------------------*/
+
+.main-footer {
+  background: #f0f4f7;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  color: #47494e;
+  margin-top: 80px;
+  position: relative;
+  z-index: 100;
+  p, ul {
+    color: #47494e;
+  }
+
+  .menu {
+    display: table;
+    width: 1080px;
+    table-layout: fixed;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    display: flex;
+    li {
+      flex: 1;
+      vertical-align: top;
+      width: 100%;
+      padding: 7px 0;
+      text-transform: uppercase;
+      font-weight: 700;
+
+      a:not(.btn) {
+        display: block;
+        transition: all 0.6s ease;
+
+        &:hover {
+          color: rgba(0, 0, 0, 0.5);
+        }
+
+        .icon__arrow-down {
+          display: none;
+        }
+      }
+
+      .btn {
+        text-align: center;
+        color: #FFF;
+
+        &:before {
+          transform: none;
+          z-index: 200;
+        }
+      }
+
+      ul {
+        display: block;
+        padding: 5px 0;
+
+        li {
+          font-weight: 400;
+          width: auto;
+          display: block;
+          padding: 5px 0;
+          font-size: 0.7em;
+        }
+      }
+
+      .socials {
+        a {
+          display: inline-block;
+          margin-left: 5px;
+          vertical-align: middle;
+          opacity: 1;
+        }
+      }
+    }
+  }
+
+  .closure {
+    width: 1080px;
+    margin: 0 auto;
+    border-top: 1px solid rgba(#000, 0.33);
+    padding: 10px 0;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    .logo_footer {
+      float: left;
+      font-size: 1.5em;
+      font-weight: 900;
+    }
+    p {
+      float: right;
+      font-size: 0.6em;
+    }
+  }
+}
+
+//背景
+
+.bg-body {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+
+  #gradient-bg {
+    width: 100%;
+    height: 100%;
+    //@include linear-gradient(left, $blue-dark 0%, $blue 100%);
+  }
+
+  .particles {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    opacity: 0.1;
+    transform: translate3d(-50%, -50%, 0);
+
+    canvas {
+      width: 100%;
+      position: absolute;
+      top: 50%;
+      height: 100%;
+      left: 50%;
+      transform: translate3d(-50%, -50%, 0);
+    }
+  }
+}
+
+//锚点跳转
+
