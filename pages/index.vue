@@ -11,6 +11,13 @@
         <h1>互联网解决方案机构</h1>
         <h6>我们将创新型的用户体验和独特的设计美学融入到互联网产品中，为您提供有价值的产品解决方案</h6>
       </div>
+
+      <!--锚点链接-->
+      <div id="down2">
+        <canvas id="downCanvas2" width="50" height="50">你的浏览器不支持canvas，请下载更新版本的浏览器
+        </canvas>
+      </div>
+
       <img class="main_img" src="../static/img/illus-produits.png"/>
     </section>
 
@@ -81,7 +88,16 @@
     },
     methods: {},
     mounted() {
-
+      var c = document.getElementById("downCanvas2"), cxt = c.getContext("2d");
+      cxt.beginPath();
+      cxt.moveTo(5, 20);
+      cxt.lineTo(20, 35);
+      cxt.lineTo(35, 20);
+      cxt.lineWidth = 3;
+      cxt.strokeStyle = "#ffffff";
+      cxt.lineCap = 'round';
+      cxt.lineJoin = "round";
+      cxt.stroke();
     }
   }
 </script>

@@ -6,9 +6,9 @@
           <div class="grid__col-xxs--12">
             <div class="menu-footer-menu-container">
               <ul id="primary-menu" class="menu">
-                <li id="menu-item-44"><span>我们的团队</span>
+                <li id="menu-item-44"><span>团队成员</span>
                 </li>
-                <li id="menu-item-45"><span>案例分析</span>
+                <li id="menu-item-45"><span>案例研究</span>
                 </li>
                 <li id="menu-item-46"><span>合作伙伴</span>
                   <ul class="submenu">
