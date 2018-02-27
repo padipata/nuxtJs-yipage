@@ -70,7 +70,6 @@
     <section class="price">
       <p class="price_title">深圳市一页科技有限公司</p>
       <p class="price_title2">我们的价值</p>
-      <p></p>
       <ul>
         <li>
           <img src="../static/img/logo-icon.svg"/>
