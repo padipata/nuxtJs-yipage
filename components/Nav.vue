@@ -11,7 +11,7 @@
       <nuxt-link to="/About">
         <li>团队</li>
       </nuxt-link>
-      <nuxt-link to="/">
+      <nuxt-link to="/Contact">
         <li>定制</li>
       </nuxt-link>
     </ul>

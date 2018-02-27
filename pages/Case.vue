@@ -24,7 +24,7 @@
     <section class="price">
       <ul>
         <li>
-          <img src="../static/img/tellmycity.jpg"/>
+          <img @click="onDetail()" src="../static/img/tellmycity.jpg"/>
           <p class="price_name">卡蒂尼珠宝</p>
           <p class="price_text">在线购买BOX、珠宝凭借平台</p>
         </li>
@@ -68,7 +68,11 @@
       bgBody,
       vFooter
     },
-    methods: {},
+    methods: {
+      onDetail(){
+        this.$router.push({path:'/CaseDetail'})
+      }
+    },
     mounted() {
       var c = document.getElementById("downCanvas3"), cxt = c.getContext("2d");
       cxt.beginPath();
