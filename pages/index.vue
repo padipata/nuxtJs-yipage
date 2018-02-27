@@ -36,7 +36,7 @@
           <h1>产品设计方案</h1>
           <h6>出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案</h6>
         </div>
-        <img class="scope_img" src="../static/img/illus-corto-02-583x700.png"/>
+        <img class="scope_img" src="../static/img/illus-spotix-01-1-707x700.png"/>
       </section>
 
       <!--02 网站开发-->
@@ -200,9 +200,10 @@
   .scope .scope_img {
     display: block;
     float: right;
-    width: 430px;
+    width: 480px;
     position: absolute;
     right: 0;
+    top:100px;
   }
 
   /*01 end*/

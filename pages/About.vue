@@ -143,7 +143,7 @@
   /*01*/
   .scope {
     width: 1080px;
-    height: 350px;
+    height: 400px;
     margin: 0 auto;
     position: relative;
   }
