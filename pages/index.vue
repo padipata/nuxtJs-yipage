@@ -88,6 +88,8 @@
     },
     methods: {},
     mounted() {
+      alert('push')
+
       var c = document.getElementById("downCanvas2"), cxt = c.getContext("2d");
       cxt.beginPath();
       cxt.moveTo(5, 20);
