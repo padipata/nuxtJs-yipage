@@ -29,7 +29,7 @@
           <p class="price_text">在线购买BOX、珠宝凭借平台</p>
         </li>
         <li class="li2">
-          <img src="../static/img/rbc-1.jpg"/>
+          <img @click="onDetail()" src="../static/img/rbc-1.jpg"/>
           <p class="price_name">积分商城</p>
           <p class="price_text">通过游戏、购买商品获取积分，并通过积分获得商品优惠资格</p>
         </li>
@@ -37,12 +37,12 @@
       </ul>
       <ul class="ul2">
         <li>
-          <img src="../static/img/scet-1.jpg"/>
+          <img @click="onDetail()" src="../static/img/scet-1.jpg"/>
           <p class="price_name">工商银行BBS</p>
           <p class="price_text">工商银行珠海分行，行内BBS</p>
         </li>
         <li class="li2_2">
-          <img src="../static/img/rbc-2.jpg"/>
+          <img @click="onDetail()" src="../static/img/rbc-2.jpg"/>
           <p class="price_name">定了么家具</p>
           <p class="price_text">提供在线定制家具服务</p>
         </li>
@@ -69,8 +69,8 @@
       vFooter
     },
     methods: {
-      onDetail(){
-        this.$router.push({path:'/CaseDetail'})
+      onDetail() {
+        this.$router.push({path: '/CaseDetail'})
       }
     },
     mounted() {

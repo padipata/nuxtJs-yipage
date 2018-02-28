@@ -161,7 +161,7 @@
 
   .scope .title > .h6 {
     font-weight: 100;
-    font-size: 15px;
+    font-size: 20px;
     color: #ffffff;
     width: 550px;
     font-family: PingFangSC-Regular;
