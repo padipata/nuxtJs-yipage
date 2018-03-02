@@ -11,7 +11,7 @@
         <h1>案例研究</h1>
         <h6 class="h6">为客户部署的解决方案</h6>
       </div>
-      <img class="scope_img" src="../static/img/illus-case-studies-1.png"/>
+      <img class="scope_img" src="http://oy158wtwk.bkt.clouddn.com/illus-case-studies-1.png"/>
     </section>
 
     <!--锚点链接-->
@@ -24,12 +24,12 @@
     <section class="price">
       <ul>
         <li>
-          <img @click="onDetail()" src="../static/img/tellmycity.jpg"/>
+          <img @click="onDetail()" src="http://oy158wtwk.bkt.clouddn.com/tellmycity.jpg"/>
           <p class="price_name">卡蒂尼珠宝</p>
           <p class="price_text">在线购买BOX、珠宝凭借平台</p>
         </li>
         <li class="li2">
-          <img @click="onDetail()" src="../static/img/rbc-1.jpg"/>
+          <img @click="onDetail()" src="http://oy158wtwk.bkt.clouddn.com/rbc-1.jpg"/>
           <p class="price_name">积分商城</p>
           <p class="price_text">通过游戏、购买商品获取积分，并通过积分获得商品优惠资格</p>
         </li>
@@ -37,12 +37,12 @@
       </ul>
       <ul class="ul2">
         <li>
-          <img @click="onDetail()" src="../static/img/scet-1.jpg"/>
+          <img @click="onDetail()" src="http://oy158wtwk.bkt.clouddn.com/scet-1.jpg"/>
           <p class="price_name">工商银行BBS</p>
           <p class="price_text">工商银行珠海分行，行内BBS</p>
         </li>
         <li class="li2_2">
-          <img @click="onDetail()" src="../static/img/rbc-2.jpg"/>
+          <img @click="onDetail()" src="http://oy158wtwk.bkt.clouddn.com/rbc-2.jpg"/>
           <p class="price_name">定了么家具</p>
           <p class="price_text">提供在线定制家具服务</p>
         </li>

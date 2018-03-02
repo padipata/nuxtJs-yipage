@@ -18,7 +18,7 @@
         </canvas>
       </div>
 
-      <img class="main_img" src="../static/img/illus-produits.png"/>
+      <img class="main_img" src="http://oy158wtwk.bkt.clouddn.com/illus-produits.png"/>
     </section>
 
     <!--我们的项目范围-->
@@ -36,7 +36,7 @@
           <h1>产品设计方案</h1>
           <h6>出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案</h6>
         </div>
-        <img class="scope_img" src="../static/img/illus-spotix-01-1-707x700.png"/>
+        <img class="scope_img" src="http://oy158wtwk.bkt.clouddn.com/illus-spotix-01-1-707x700.png"/>
       </section>
 
       <!--02 网站开发-->
@@ -46,7 +46,7 @@
           <h1>网站开发</h1>
           <h6>出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案</h6>
         </div>
-        <img class="scope_img" src="../static/img/illus-spotix-00-1.png"/>
+        <img class="scope_img" src="http://oy158wtwk.bkt.clouddn.com/illus-spotix-00-1.png"/>
       </section>
 
       <!--03 小程序开发-->
@@ -56,7 +56,7 @@
           <h1>小程序开发</h1>
           <h6>出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案出色的产品设计方案</h6>
         </div>
-        <img class="scope_img" src="../static/img/illus-stat.png"/>
+        <img class="scope_img" src="http://oy158wtwk.bkt.clouddn.com/illus-stat.png"/>
       </section>
 
       <!--跳转案例-->

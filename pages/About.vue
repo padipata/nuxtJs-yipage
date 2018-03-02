@@ -12,7 +12,7 @@
         <h1>我们是谁？</h1>
         <h6 class="h6">作为互联网解决方案机构，一页科技在网站开发和安全研究领域提供量身定制的支持。</h6>
       </div>
-      <img class="scope_img" src="../static/img/illus-job.png"/>
+      <img class="scope_img" src="http://oy158wtwk.bkt.clouddn.com/illus-job.png"/>
     </section>
 
     <!--锚点链接-->
@@ -48,17 +48,17 @@
         <p class="personal_title">核心成员</p>
         <ul>
           <li>
-            <img src="../static/img/Jan_Tavart-440x440.jpg"/>
+            <img src="http://oy158wtwk.bkt.clouddn.com/Jan_Tavart-440x440.jpg"/>
             <p class="personal_name">Edison</p>
             <p class="personal_wei">CEO</p>
           </li>
           <li>
-            <img src="../static/img/Renaud_Prouveur-440x440.jpg"/>
+            <img src="http://oy158wtwk.bkt.clouddn.com/Renaud_Prouveur-440x440.jpg"/>
             <p class="personal_name">Padipata</p>
             <p class="personal_wei">项目经理</p>
           </li>
           <li>
-            <img src="../static/img/Olivier_Ricca-440x440.jpg"/>
+            <img src="http://oy158wtwk.bkt.clouddn.com/Olivier_Ricca-440x440.jpg"/>
             <p class="personal_name">Agger</p>
             <p class="personal_wei">技术主管</p>
           </li>

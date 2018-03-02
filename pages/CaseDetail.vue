@@ -11,7 +11,7 @@
         <h1>卡蒂尼珠宝</h1>
         <h6 class="h6">在线购买BOX、珠宝凭借平台</h6>
       </div>
-      <img class="scope_img" src="../static/img/tellmycity.jpg"/>
+      <img class="scope_img" src="http://oy158wtwk.bkt.clouddn.com/tellmycity.jpg"/>
     </section>
 
     <!--锚点链接-->
@@ -39,7 +39,7 @@
       <p class="price_title">客户需求</p>
       <p class="price_title2">挑战</p>
       <p class="xuqiu">与客户沟通</p>
-      <img class="scope_img" src="../static/img/montoban.jpg"/>
+      <img class="scope_img" src="http://oy158wtwk.bkt.clouddn.com/montoban.jpg"/>
     </section>
 
     <!--解决方案-->
@@ -54,7 +54,7 @@
             <p>一页科技开发的创新应用程序自2017年5月开始部署，已经很快证明自己已经有超过5000个报告。在不到一年的时间里，报告的平均处理时间从平均60天增加到现在不到4天。</p>
           </div>
           <div class="type_right">
-            <img src="../static/img/Montauban-3-760x700.jpg"/>
+            <img src="http://oy158wtwk.bkt.clouddn.com/Montauban-3-760x700.jpg"/>
           </div>
         </div>
       </section>

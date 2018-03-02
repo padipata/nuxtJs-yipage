@@ -12,7 +12,7 @@
         <h6 class="h6">项目信息？</h6>
         <h6 class="h6">我们见面吧！</h6>
       </div>
-      <img class="scope_img" src="../static/img/corto-atout1.png"/>
+      <img class="scope_img" src="http://oy158wtwk.bkt.clouddn.com/corto-atout1.png"/>
     </section>
 
     <!--锚点链接-->
@@ -33,7 +33,7 @@
           <p class="line"><span>项目信息</span><textarea class="more_text"></textarea></p>
         </div>
         <div class="type_right">
-          <img src="../static/img/illus-contact2.png"/>
+          <img src="http://oy158wtwk.bkt.clouddn.com/illus-contact2.png"/>
         </div>
       </div>
     </section>
@@ -42,7 +42,7 @@
     <section class="price">
       <p class="price_title">我们的地址</p>
       <p class="price_title2">访问我们</p>
-      <img class="scope_img" src="../static/img/montoban.jpg"/>
+      <img class="scope_img" src="http://oy158wtwk.bkt.clouddn.com/montoban.jpg"/>
       <p class="site_name">湖北大厦</p>
       <p class="site_name2">详细地址：深圳市福田区湖北大厦xxx</p>
       <p class="site_phone">联系电话：+86 18814002160</p>
