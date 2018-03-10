@@ -98,6 +98,7 @@
       cxt.lineCap = 'round';
       cxt.lineJoin = "round";
       cxt.stroke();
+
     }
   }
 </script>
